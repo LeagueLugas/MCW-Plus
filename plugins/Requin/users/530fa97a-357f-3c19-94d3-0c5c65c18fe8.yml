@@ -1,0 +1,9 @@
+name: test
+prifix: ''
+back:
+  world: world
+  x: -117.1705151389599
+  y: 64.0
+  z: 260.3139135541989
+bag:
+  level: 1

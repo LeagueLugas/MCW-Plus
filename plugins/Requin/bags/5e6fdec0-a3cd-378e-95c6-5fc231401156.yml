@@ -1,0 +1,48 @@
+list:
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- null
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+  amount: 24
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- null
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+  amount: 24
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- null
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE
+- ==: org.bukkit.inventory.ItemStack
+  type: STONE

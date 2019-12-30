@@ -1,0 +1,14 @@
+spawn:
+  default:
+    world: world
+    x: -145.24072888748196
+    y: 71.0
+    z: 239.99406649677258
+    yaw: -47.849995
+    pitch: 17.400002
+Message:
+  newjoin: '&f[&bServer&f] &6<playername>&f님이 서버에 처음으로 접속하였습니다'
+  join: '&f[&a+&f] <playername>'
+  quit: '&f[&c-&f] <playername>'
+  back: 이동 하였습니다
+  noback: 이전 위치가 존재하지 않습니다
